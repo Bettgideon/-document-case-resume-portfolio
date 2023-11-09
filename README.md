@@ -10,6 +10,7 @@ You can check out on me on linkedin and see more web projects on my Github profi
 And I'm currently improving my skills in MERN stack.
 
 I design and develop experience that make people's lives simple.
+This portfolio is live in https://bettgideon.github.io/-document-case-resume-portfolio/
 
 ##  My technical skills: 
 
