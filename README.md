@@ -1,4 +1,4 @@
-# Personal portfolio 
+# Personal portfolio/resume/integrated CV 
 
 ##  Main information
 
