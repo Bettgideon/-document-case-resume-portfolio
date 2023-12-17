@@ -1,6 +1,6 @@
 # Personal_portfolio/resume/integrated CV 
 
-##  Main information
+# Main information
 
 My name is Gideon Bett and I'm a Frontend Web developer from Maseno, Kisumu.
 My many years of experience in  graphic design allows me to create high-quality, responsive and beautiful websites and applications.\
