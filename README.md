@@ -21,4 +21,4 @@ This portfolio is live in https://bettgideon.github.io/-document-case-resume-por
 
 ### Web & Graphic Design: 
 >>>>>>> 2ab997b4f552e1a66c321d4ebcdebf9001b1cd6e
-- Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Adobe Lightroom | Publisher
+- Adobe Photoshop | Adobe Illustrator | Adobe InDesign | Adobe Lightroom | Microsoft Publisher
